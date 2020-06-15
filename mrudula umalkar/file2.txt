@@ -55,3 +55,7 @@ Statement shown by green colour.
 Mrudulau30/webdesign
 Language
 HTML
+
+
+
+this are the answers of task 1 and task 2
