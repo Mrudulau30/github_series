@@ -56,6 +56,20 @@ Mrudulau30/webdesign
 Language
 HTML
 
-
-
-this are the answers of task 1 and task 2
+Day 3:
+1) what is meant by the term fork and clone?
+ Fork=A fork is a copy of repository.Forking a repository allows us to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project with our own idea.
+Clone=Cloning basically means we want to get local copy of files present in repository. Got clone is a command line utility which is used to target an existing repository and create clone or copy of repo.
+2) What are the branches in Github?
+     Branch is actually a git component not of github.
+     Branches can be defined as the individuals projects within a guy repository. Different branches within a repository can have completely different files and folder .
+     Each repository can have one or more branches. The master branch is deployable.
+3)What is PR ?
+     PR stands for Pull Request.
+     Changes made to the fork repository can be merged with the original repository via pull request . It allows others to know about the changes that have been pushed to a github repo. Once a pull request is sent other people can review the changes and also discuss the potential modifications .
+      It is used for better collaboration.
+4)Can we delete master branch if not why?
+   Yes we delete the master branch but for that we have to change the github repo default branch .It cam be change using option settings -branches-select default. And then particular placeholder after that confirm that we want to change default branch .
+5)How can we delete branch?
+  Deleting branch locally using $ git branch-d <branch>
+  Deleting  a branch remotely using $git push <remote>--delete <branch >.
